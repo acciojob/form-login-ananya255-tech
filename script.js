@@ -1,5 +1,4 @@
 
-let submit=document.getElementById("submit")
 
 
 
@@ -13,6 +12,5 @@ let lname=document.getElementById("lname").value
 
 }
 
-submit.addEventListener(('click', getFormvalue)
 
 
